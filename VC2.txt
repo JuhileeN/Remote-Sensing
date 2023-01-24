@@ -1,0 +1,8 @@
+GFSAD
+landsat 8 , sentinel 2
+Bhuvan - data
+AARC GIS
+google earth engine aerosol
+001 EE Classification Landsat 8
+mdpi.com/2072-4292/6/5/
+code google earth engine

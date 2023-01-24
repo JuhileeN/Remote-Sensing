@@ -1,0 +1,20 @@
+
+RWD - Responsive Web Design - layout decision is made at client side.
+Single page that serves the purpose for different devices.
+
+AWD - Adaptive Web Design- layout decision is made at server side.
+
+RWD is preferable.
+RWD -   Mobile First Approach
+	Progressive enhancement rather than graceful degradation.
+	Front End frameworks
+
+	Media Queries
+	@media rule
+	In CSS2 - media types.
+	In CSS3 - media queries.
+
+	Media queries look at the capabilities like width and height of Viewport.
+		width and height of device
+		orientation(landscape and portrait)
+		resolution
